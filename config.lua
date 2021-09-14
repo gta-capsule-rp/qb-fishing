@@ -10,14 +10,14 @@ Config.MarkerData = {
 }
 
 Config.FishingRestaurant = {
-    ["name"] = "La Spada Fish Restaurant",
+    ["name"] = "Sketcy Fishing Dude",
     ["blip"] = {
         ["sprite"] = 628,
         ["color"] = 3
     },
     ["ped"] = {
         ["model"] = 0xED0CE4C6,
-        ["position"] = vector3(-1038.4545898438, -1397.0551757813, 5.553192615509),
+        ["position"] = vector3(-3334.37, 970.81, 8.29),
         ["heading"] = 75.0
     }
 }
